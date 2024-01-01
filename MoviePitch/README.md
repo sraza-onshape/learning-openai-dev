@@ -1,4 +1,6 @@
-# co69942d6b22db314a32431fd
+# Movie Pitch
+
+Link to original course on Scrimba: click here. 
 
 Quick start:
 
