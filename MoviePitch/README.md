@@ -1,6 +1,6 @@
 # Movie Pitch
 
-Link to original course on Scrimba: click here. 
+Link to original course on Scrimba: click [here](https://scrimba.com/learn/buildaiapps). 
 
 Quick start:
 
